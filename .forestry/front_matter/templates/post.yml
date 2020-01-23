@@ -36,6 +36,3 @@ fields:
   default: post
   config:
     required: true
-pages:
-- src/pages/posts/basic-rules-for-walking-in-the-mountains.md
-- src/pages/posts/what-isphotography.md
