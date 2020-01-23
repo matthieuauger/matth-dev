@@ -7,7 +7,7 @@ sections:
   section_id: intro
   component: Intro
   content: Hi, my name is Matthieu. This blog is a simple view of my thoughts, definitions
-    and mental models that help me apprehend the world
+    and mental models that help me apprehend the world.
   actions: []
 menus:
   main:
