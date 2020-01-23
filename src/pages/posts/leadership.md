@@ -10,9 +10,9 @@ excerpt: How can we define leadership nowadays?
 ---
 Leadership is quite a difficult notion to apprehend.
 
-When you ask people what a leader is, some will tell you "_It's when, at lunch time, you look for a place to eat and someone guide the group to a destination_". In my company, there is another definition: leadership is defined as "_The ability to bring long-lasting change_".
+When you ask people what a leader is, some will tell you "_It's when, at lunch time, you look for a place to eat and someone guide the group to a destination_". In my company, leadership is defined as "_The ability to bring long-lasting change_".
 
-Jesus was a leader. He brought massive change in the world with billions of followers, and many years after he died, christianity still exists. 
+Jesus was a leader. He brought massive change in the world with billions of preachers, and many years after he died, christianity still exists.
 
 Steve Jobs was a leader. He brought ground-breaking innovation in the music and mobile landscape with his iPod and iPhone. Years after, this change is still there in our societies.
 
