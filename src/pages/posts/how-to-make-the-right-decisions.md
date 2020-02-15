@@ -23,11 +23,10 @@ The three important characteristics for a decision are cost, value and risk:
 * **Value**: What will this decision bring to me? What is the value? Value can be material (own a new object) or emotional (experiencing something)
 * **Cost**: What will this decision cost me? Cost can be either material or emotional
 * **Risk**: What is the probability that following the decision, an event occurs reducing the estimated value or increasing the estimated cost?
-* 
 
 Let’s take an exemple. Recently I had to buy a vacuum. I had two options:
 
-* There is a german brand building high quality vacuum.
+* There is a german brand building high quality vacuums.
   * Value: Good aspiration
   * Cost: 300€
   * Risk: what is the risk of the vacuum broking? unknown
