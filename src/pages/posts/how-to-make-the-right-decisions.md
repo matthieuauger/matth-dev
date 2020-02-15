@@ -2,7 +2,7 @@
 template: post
 title: How to make the right decisions
 subtitle: ''
-date: 2019-12-28T23:00:00Z
+date: 2020-02-14T23:00:00Z
 thumb_img_path: "/images/2.jpg"
 content_img_path: ''
 excerpt: ''
