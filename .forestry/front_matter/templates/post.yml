@@ -37,4 +37,5 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/how-to-make-the-right-decisions.md
 - src/pages/posts/leadership.md
