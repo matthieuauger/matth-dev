@@ -1,6 +1,6 @@
 ---
 template: post
-title: How to make the right decisions
+title: "\U0001F1EC\U0001F1E7How to make the right decisions"
 subtitle: ''
 date: 2020-02-14T23:00:00Z
 thumb_img_path: "/images/2.jpg"
