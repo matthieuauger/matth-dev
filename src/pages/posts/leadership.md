@@ -1,6 +1,6 @@
 ---
 template: post
-title: Leadership
+title: What define a leader?
 subtitle: ''
 date: 2020-01-22T23:00:00Z
 thumb_img_path: "/images/4.jpg"
