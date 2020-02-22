@@ -8,66 +8,66 @@ content_img_path: ''
 excerpt: ''
 
 ---
-Deciding is not easy. We decide all the time in our daily life, what to eat, wear, spend time with, yet we never learnt to decide. And the more we step up in our jobs, the more decisions we need to take. How are we supposed to make a decision? Here is my framework.
+Deciding is not easy. We decide all the time in our daily life, what to eat, wear, spend time with, yet we never learned to decide. And the more we step up in our jobs, the more decisions we need to take. How are we supposed to make a decision? Here is my framework.
 
 ## **Emotional vs Rational**
 
-Emotions play a big role in decisions, yet they often lead to bad ones. Marketers understood this decades ago, when they turned advertisements based on product qualities to advertisements based on emotions. You just have to turn the television and look at a car advertisement: nowadays you don’t have the options, the colors, the characteristics of the car. Instead you have a look of what they promise you with the car: liberty, calm, adventure, pride, love, identity.
+Emotions play a big role in decisions, yet they often lead to bad ones. Marketers understood this decades ago when they turned advertisements based on product qualities to advertisements based on emotions. You just have to turn the television and look at a car advertisement: nowadays you don’t have the options, the colors, the characteristics of the car. Instead, you have a look at what they promise you with the car: liberty, calm, adventure, pride, love, identity.
 
-In a professional work, decisions should always stay rational, and my approach is rational.
+In professional work, decisions should always stay rational, and my approach is rational.
 
 ## **1. Estimate Value, Cost and Risk**
 
-The three important characteristics for a decision are cost, value and risk:
+The three important characteristics of a decision are cost, value, and risk:
 
 * **Value**: What will this decision bring to me? What is the value? Value can be material (own a new object) or emotional (experiencing something)
-* **Cost**: What will this decision cost me? Cost can be either material or emotional
+* **Cost**: What will this decision cost me? The cost can be either material or emotional
 * **Risk**: What is the probability that following the decision, an event occurs reducing the estimated value or increasing the estimated cost?
 
-Let’s take an exemple. Recently I had to buy a vacuum. I had two options:
+Let’s take an example. Recently I had to buy a vacuum. I had two options:
 
-* There is a german brand building high quality vacuums.
+* There is a german brand building high-quality vacuums.
   * Value: Good aspiration
   * Cost: 300€
   * Risk: what is the risk of the vacuum broking? unknown
-* There are chinese brand building supposely equal value vaccums
+* There is a Chinese brand building supposedly equal value vacuums
   * Value: Good aspiration
   * Cost: 150€
   * Risk: what is the risk of the vacuum broking? unknown
 
-If you had to make a decision based on solely on these informations what would you choose? Probably the chinese one. Same value, same risk, reduced cost.
+If you had to make a decision based solely on this information what would you choose? Probably the Chinese one. Same value, same risk, reduced cost.
 
 ## **2. Precise Value, Cost and Risk**
 
-Decision making being based on these informations, you have big interest to get these informations the most precise possible. So get specific.
+Decision-making being based on these informations, you have big interest to get these informations the most precise possible. So get specific.
 
-* There is a german brand building high quality vacuum.
+* There is a german brand building high-quality vacuums.
   * Value: Good aspiration. What puissance? 40KW
   * Cost: 300€
   * Risk: what is the risk of the vacuum broking? read the web comments good quality
-* There are chinese brand building supposely equal value vaccums
+* There is a Chinese brand building supposedly equal value vacuums
   * Value: Average aspiration. What puissance? 25KW
   * Cost: 150€
   * Risk: what is the risk of the vacuum broking? read the web comments bad quality
 
-Now, the decision is more tricky; What is your priority? Spend less today with a risk of having to buy a new one in a few months or more today? That’s when you want to think about your constraints.
+Now, the decision is more tricky; What is your priority? Spend less today with a risk of having to buy a new vacuum in a few months or more today? That’s when you want to think about your constraints.
 
-## **3. Start With Constraints**
+## **3. Add Constraints**
 
 When making decisions, constraints are usually a good thing, because they can immediately discard an option.
 
-Foreach characteristics, ask yourself: is this characteristic something I cannot make a concession with?
+Foreach characteristics, ask yourself: is this characteristic something I cannot concede with?
 
 For example
 
-* Do I have a lot of animals in my appartment making the aspiration power really important?
+* Do I have a lot of animals in my apartment making the aspiration power really important?
 * Am I currently broke?
 
-## **4. Adding Time**
+## **4. Add Time**
 
-Sometimes, you may have some options not available right now, this is when time comes into the equation. Let’s assume you have a third option:
+Sometimes, you may have some options not available right now, this is when the time comes into the equation. Let’s assume you have a third option:
 
-There is a old vacuum of the same german brand, with cost reduction in 2 months
+There is an old vacuum of the same german brand, with cost reduction in 2 months
 
 * Value: Good aspiration. What puissance? 35KW
 * Cost: 200€
